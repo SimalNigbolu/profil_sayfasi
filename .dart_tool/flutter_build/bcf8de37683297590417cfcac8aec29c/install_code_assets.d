@@ -1,0 +1,1 @@
+ C:\\Users\\simal\\projeler\\Profil_sayfasi\\.dart_tool\\flutter_build\\bcf8de37683297590417cfcac8aec29c\\native_assets.json: 
