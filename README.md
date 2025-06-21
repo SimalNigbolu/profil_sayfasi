@@ -1,4 +1,4 @@
-# denemeler
+#Basit Profil Sayfası Örneği
 
 A new Flutter project.
 
